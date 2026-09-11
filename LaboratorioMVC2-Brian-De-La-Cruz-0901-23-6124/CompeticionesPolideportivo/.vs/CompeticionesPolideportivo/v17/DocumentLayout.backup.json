@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Practica MVC II\\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\\CompeticionesPolideportivo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B648FE01-DABE-4C15-80CC-208F3ECE2871}|CompeticionesPolideportivo\\CompeticionesPolideportivo.csproj|c:\\practica mvc ii\\laboratoriomvc2-brian-de-la-cruz-0901-23-6124\\competicionespolideportivo\\competicionespolideportivo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B648FE01-DABE-4C15-80CC-208F3ECE2871}|CompeticionesPolideportivo\\CompeticionesPolideportivo.csproj|solutionrelative:competicionespolideportivo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC27AF19-C2C1-47C6-B571-582190A0B49F}|CapaModelo_Competiciones\\CapaModelo_Competiciones.csproj|c:\\practica mvc ii\\laboratoriomvc2-brian-de-la-cruz-0901-23-6124\\competicionespolideportivo\\capamodelo_competiciones\\repositorio\\repositoriocompeticiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC27AF19-C2C1-47C6-B571-582190A0B49F}|CapaModelo_Competiciones\\CapaModelo_Competiciones.csproj|solutionrelative:capamodelo_competiciones\\repositorio\\repositoriocompeticiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC27AF19-C2C1-47C6-B571-582190A0B49F}|CapaModelo_Competiciones\\CapaModelo_Competiciones.csproj|c:\\practica mvc ii\\laboratoriomvc2-brian-de-la-cruz-0901-23-6124\\competicionespolideportivo\\capamodelo_competiciones\\contratos\\irepositoriogenerico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC27AF19-C2C1-47C6-B571-582190A0B49F}|CapaModelo_Competiciones\\CapaModelo_Competiciones.csproj|solutionrelative:capamodelo_competiciones\\contratos\\irepositoriogenerico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC27AF19-C2C1-47C6-B571-582190A0B49F}|CapaModelo_Competiciones\\CapaModelo_Competiciones.csproj|c:\\practica mvc ii\\laboratoriomvc2-brian-de-la-cruz-0901-23-6124\\competicionespolideportivo\\capamodelo_competiciones\\contratos\\irepositoriocompeticiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC27AF19-C2C1-47C6-B571-582190A0B49F}|CapaModelo_Competiciones\\CapaModelo_Competiciones.csproj|solutionrelative:capamodelo_competiciones\\contratos\\irepositoriocompeticiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC27AF19-C2C1-47C6-B571-582190A0B49F}|CapaModelo_Competiciones\\CapaModelo_Competiciones.csproj|c:\\practica mvc ii\\laboratoriomvc2-brian-de-la-cruz-0901-23-6124\\competicionespolideportivo\\capamodelo_competiciones\\entidades\\competiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC27AF19-C2C1-47C6-B571-582190A0B49F}|CapaModelo_Competiciones\\CapaModelo_Competiciones.csproj|solutionrelative:capamodelo_competiciones\\entidades\\competiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC27AF19-C2C1-47C6-B571-582190A0B49F}|CapaModelo_Competiciones\\CapaModelo_Competiciones.csproj|c:\\practica mvc ii\\laboratoriomvc2-brian-de-la-cruz-0901-23-6124\\competicionespolideportivo\\capamodelo_competiciones\\repositorio\\repositoriomaestro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC27AF19-C2C1-47C6-B571-582190A0B49F}|CapaModelo_Competiciones\\CapaModelo_Competiciones.csproj|solutionrelative:capamodelo_competiciones\\repositorio\\repositoriomaestro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC27AF19-C2C1-47C6-B571-582190A0B49F}|CapaModelo_Competiciones\\CapaModelo_Competiciones.csproj|c:\\practica mvc ii\\laboratoriomvc2-brian-de-la-cruz-0901-23-6124\\competicionespolideportivo\\capamodelo_competiciones\\repositorio\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC27AF19-C2C1-47C6-B571-582190A0B49F}|CapaModelo_Competiciones\\CapaModelo_Competiciones.csproj|solutionrelative:capamodelo_competiciones\\repositorio\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Practica MVC II\\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\\CompeticionesPolideportivo\\CompeticionesPolideportivo\\Class1.cs",
-              "RelativeDocumentMoniker": "CompeticionesPolideportivo\\Class1.cs",
-              "ToolTip": "C:\\Practica MVC II\\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\\CompeticionesPolideportivo\\CompeticionesPolideportivo\\Class1.cs",
-              "RelativeToolTip": "CompeticionesPolideportivo\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Competiciones.cs",
+              "DocumentMoniker": "C:\\Practica MVC II\\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\\CompeticionesPolideportivo\\CapaModelo_Competiciones\\Entidades\\Competiciones.cs",
+              "RelativeDocumentMoniker": "CapaModelo_Competiciones\\Entidades\\Competiciones.cs",
+              "ToolTip": "C:\\Practica MVC II\\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\\CompeticionesPolideportivo\\CapaModelo_Competiciones\\Entidades\\Competiciones.cs",
+              "RelativeToolTip": "CapaModelo_Competiciones\\Entidades\\Competiciones.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T20:49:27.318Z",
+              "WhenOpened": "2026-09-11T22:43:07.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepositorioCompeticiones.cs",
+              "DocumentMoniker": "C:\\Practica MVC II\\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\\CompeticionesPolideportivo\\CapaModelo_Competiciones\\Contratos\\IRepositorioCompeticiones.cs",
+              "RelativeDocumentMoniker": "CapaModelo_Competiciones\\Contratos\\IRepositorioCompeticiones.cs",
+              "ToolTip": "C:\\Practica MVC II\\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\\CompeticionesPolideportivo\\CapaModelo_Competiciones\\Contratos\\IRepositorioCompeticiones.cs",
+              "RelativeToolTip": "CapaModelo_Competiciones\\Contratos\\IRepositorioCompeticiones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T22:40:52.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepositorioGenerico.cs",
+              "DocumentMoniker": "C:\\Practica MVC II\\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\\CompeticionesPolideportivo\\CapaModelo_Competiciones\\Contratos\\IRepositorioGenerico.cs",
+              "RelativeDocumentMoniker": "CapaModelo_Competiciones\\Contratos\\IRepositorioGenerico.cs",
+              "ToolTip": "C:\\Practica MVC II\\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\\CompeticionesPolideportivo\\CapaModelo_Competiciones\\Contratos\\IRepositorioGenerico.cs",
+              "RelativeToolTip": "CapaModelo_Competiciones\\Contratos\\IRepositorioGenerico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T22:35:42.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepositorioCompeticiones.cs",
+              "DocumentMoniker": "C:\\Practica MVC II\\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\\CompeticionesPolideportivo\\CapaModelo_Competiciones\\Repositorio\\RepositorioCompeticiones.cs",
+              "RelativeDocumentMoniker": "CapaModelo_Competiciones\\Repositorio\\RepositorioCompeticiones.cs",
+              "ToolTip": "C:\\Practica MVC II\\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\\CompeticionesPolideportivo\\CapaModelo_Competiciones\\Repositorio\\RepositorioCompeticiones.cs",
+              "RelativeToolTip": "CapaModelo_Competiciones\\Repositorio\\RepositorioCompeticiones.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T22:33:22.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositorioMaestro.cs",
+              "DocumentMoniker": "C:\\Practica MVC II\\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\\CompeticionesPolideportivo\\CapaModelo_Competiciones\\Repositorio\\RepositorioMaestro.cs",
+              "RelativeDocumentMoniker": "CapaModelo_Competiciones\\Repositorio\\RepositorioMaestro.cs",
+              "ToolTip": "C:\\Practica MVC II\\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\\CompeticionesPolideportivo\\CapaModelo_Competiciones\\Repositorio\\RepositorioMaestro.cs",
+              "RelativeToolTip": "CapaModelo_Competiciones\\Repositorio\\RepositorioMaestro.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T21:49:14.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "repositorio.cs",
+              "DocumentMoniker": "C:\\Practica MVC II\\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\\CompeticionesPolideportivo\\CapaModelo_Competiciones\\Repositorio\\repositorio.cs",
+              "RelativeDocumentMoniker": "CapaModelo_Competiciones\\Repositorio\\repositorio.cs",
+              "ToolTip": "C:\\Practica MVC II\\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\\CompeticionesPolideportivo\\CapaModelo_Competiciones\\Repositorio\\repositorio.cs",
+              "RelativeToolTip": "CapaModelo_Competiciones\\Repositorio\\repositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T21:43:08.988Z",
               "EditorCaption": ""
             }
           ]

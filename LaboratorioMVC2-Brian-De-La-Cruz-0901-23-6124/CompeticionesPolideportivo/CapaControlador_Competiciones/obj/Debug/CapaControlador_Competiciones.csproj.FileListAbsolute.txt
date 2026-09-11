@@ -1,0 +1,9 @@
+C:\Practica MVC II\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\CompeticionesPolideportivo\CapaControlador_Competiciones\bin\Debug\CapaControlador_Competiciones.dll
+C:\Practica MVC II\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\CompeticionesPolideportivo\CapaControlador_Competiciones\bin\Debug\CapaControlador_Competiciones.pdb
+C:\Practica MVC II\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\CompeticionesPolideportivo\CapaControlador_Competiciones\obj\Debug\CapaControlador_Competiciones.csproj.AssemblyReference.cache
+C:\Practica MVC II\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\CompeticionesPolideportivo\CapaControlador_Competiciones\obj\Debug\CapaControlador_Competiciones.csproj.CoreCompileInputs.cache
+C:\Practica MVC II\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\CompeticionesPolideportivo\CapaControlador_Competiciones\obj\Debug\CapaControlador_Competiciones.dll
+C:\Practica MVC II\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\CompeticionesPolideportivo\CapaControlador_Competiciones\obj\Debug\CapaControlador_Competiciones.pdb
+C:\Practica MVC II\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\CompeticionesPolideportivo\CapaControlador_Competiciones\bin\Debug\CapaModelo_Competiciones.dll
+C:\Practica MVC II\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\CompeticionesPolideportivo\CapaControlador_Competiciones\bin\Debug\CapaModelo_Competiciones.pdb
+C:\Practica MVC II\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\CompeticionesPolideportivo\CapaControlador_Competiciones\obj\Debug\CapaCont.5009C32A.Up2Date
