@@ -13,7 +13,7 @@ namespace CapaModelo_Competiciones.Repositorio
         public readonly string connectionString;
         public repositorio()
         {
-           connectionString = "Local Instance MySQL80";
+           connectionString = "Dsn=Local Instance MySQL80;Uid=root;Pwd=localhost123";
         }
         protected OdbcConnection ObtenerConexion()
         {
