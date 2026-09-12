@@ -10,3 +10,10 @@ C:\Practica MVC II\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\CompeticionesPo
 C:\Practica MVC II\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\CompeticionesPolideportivo\CapaVista_Competiciones\bin\Debug\CapaModelo_Competiciones.dll
 C:\Practica MVC II\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\CompeticionesPolideportivo\CapaVista_Competiciones\bin\Debug\CapaControlador_Competiciones.dll.config
 C:\Practica MVC II\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\CompeticionesPolideportivo\CapaVista_Competiciones\bin\Debug\CapaModelo_Competiciones.pdb
+C:\Practica MVC II\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\CompeticionesPolideportivo\CapaVista_Competiciones\bin\Debug\CapaVista_Competiciones.dll.config
+C:\Practica MVC II\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\CompeticionesPolideportivo\CapaVista_Competiciones\bin\Debug\EntityFramework.dll
+C:\Practica MVC II\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\CompeticionesPolideportivo\CapaVista_Competiciones\bin\Debug\EntityFramework.SqlServer.dll
+C:\Practica MVC II\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\CompeticionesPolideportivo\CapaVista_Competiciones\bin\Debug\EntityFramework.xml
+C:\Practica MVC II\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\CompeticionesPolideportivo\CapaVista_Competiciones\bin\Debug\EntityFramework.SqlServer.xml
+C:\Practica MVC II\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\CompeticionesPolideportivo\CapaVista_Competiciones\obj\Debug\CapaVista_Competiciones.Formas.FrmCompeticiones.resources
+C:\Practica MVC II\LaboratorioMVC2-Brian-De-La-Cruz-0901-23-6124\CompeticionesPolideportivo\CapaVista_Competiciones\obj\Debug\CapaVista_Competiciones.csproj.GenerateResource.cache

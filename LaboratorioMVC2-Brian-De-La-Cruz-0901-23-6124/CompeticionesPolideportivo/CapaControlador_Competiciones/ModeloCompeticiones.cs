@@ -17,7 +17,7 @@ namespace CapaControlador_Competiciones
         private TimeSpan _horaPartido;
         private int _marcadorLocalPartido;
         private int _marcadorVisitantePartido;
-        private int _idMejorJugador_Partido;
+        private int _idMejorJugador_Partido;    
         private int _idEstadoPartido_Partido;
         private int _idJornada_Partido;
         private int _idCampo_Partido;
@@ -32,8 +32,7 @@ namespace CapaControlador_Competiciones
         public int IdPartido { get => _idPartido; set => _idPartido = value; }
 
         [Required(ErrorMessage = "El campo numero de identificacion es obligatorio")]
-        [RegularExpression("([0-9]+)", ErrorMessage = "El campo numero de identificacion solo puede contener numeros")]
-        [StringLength(maximumLength:10, MinimumLength = 1, ErrorMessage = "El campo numero de identificacion debe tener entre 1 y 10 caracteres")]
+     
 
         public DateTime FechaPartido { get => _fechaPartido; set => _fechaPartido = value; }
 
