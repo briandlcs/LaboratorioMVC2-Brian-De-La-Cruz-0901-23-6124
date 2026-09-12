@@ -18,10 +18,10 @@ namespace CapaModelo_Competiciones.Repositorio
         private string delete;
         public RepositorioCompeticiones()
         {
-            selectAll = "SELECT *FROM Competiciones";
-            insert = "INSERT INTO Competiciones value(NULL, ?,?,?,?,?,?,?,?,?,?,?)";
-            update = "UPDATE Competiciones SET FechaPartido=?, HoraPartido=?, MarcadorLocalPartido=?, MarcadorVisitantePartido=?, IdMejorJugador_Partido=?, IdEstadoPartido_Partido=?, IdJornada_Partido=?, IdCampo_Partido=?, IdArbitro_Partido=?, IdEquipoLocal_Partido=?, IdEquipoVisitante_Partido=? WHERE IdPartido=?";
-            delete = "DELETE FROM Competiciones WHERE IdPartido=?";
+            selectAll = "SELECT *FROM tbl_partido";
+            insert = "INSERT INTO tbl_partido value(NULL, ?,?,?,?,?,?,?,?,?,?,?)";
+            update = "UPDATE tbl_partido SET FechaPartido=?, HoraPartido=?, MarcadorLocalPartido=?, MarcadorVisitantePartido=?, IdMejorJugador_Partido=?, IdEstadoPartido_Partido=?, IdJornada_Partido=?, IdCampo_Partido=?, IdArbitro_Partido=?, IdEquipoLocal_Partido=?, IdEquipoVisitante_Partido=? WHERE IdPartido=?";
+            delete = "DELETE FROM tbl_partido WHERE IdPartido=?";
         }
         public int Agregar(Competiciones entidad)
         {
