@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using CapaControlador_Competiciones;
+using CapaVista_Competiciones.Reportes;
 
 namespace CapaVista_Competiciones.Formas
 {
@@ -178,6 +179,12 @@ namespace CapaVista_Competiciones.Formas
             {
                 MessageBox.Show("Seleccione una fila");
             }
+        }
+
+        private void btnImprimir_Click(object sender, EventArgs e)
+        {
+            FrmReporteCompeticiones reporte = new FrmReporteCompeticiones();
+            reporte.Show();
         }
     }
 }
