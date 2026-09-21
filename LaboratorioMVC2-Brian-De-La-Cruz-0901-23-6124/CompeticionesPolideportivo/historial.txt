@@ -1,0 +1,11 @@
+* 7ccb814 Solucion y recuperacion completa de Capa Vista y Proyecto
+* f605519 Restauracion completa de capas MVC
+* d3b8d02  Subiendo Capa Vista
+* bea2b81 Agregando Capa Vista
+| * 5f2786d WIP on desarrollando_Capa_Controlador: b64cfa7 Agregando Capa Controlador
+|/| 
+| * 9628f47 index on desarrollando_Capa_Controlador: b64cfa7 Agregando Capa Controlador
+|/  
+* b64cfa7 Agregando Capa Controlador
+* d76a803 Agregando Capa Modelo
+* a3d87f9 first commit
