@@ -179,5 +179,10 @@ namespace CapaVista_Competiciones.Formas
                 MessageBox.Show("Seleccione una fila");
             }
         }
+
+        private void btnAyuda_Click(object sender, EventArgs e)
+        {
+            Help.ShowHelp(this, @"C:\AyudaRisko-20260921T031353Z-1-001\AyudaRisko\CacitacionRisko.chm","Cliente.html");
+        }
     }
 }
